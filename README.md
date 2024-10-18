@@ -9,3 +9,5 @@ In terminal type following commands :<br>
 
 Now you are ready to go.<br>
 Open your browser and go to http://localhost:3000/
+
+Deployed at: https://guess-the-color-d9s3.onrender.com/
